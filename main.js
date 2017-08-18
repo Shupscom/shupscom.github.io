@@ -89,10 +89,10 @@ function validateName(){
 
 function sendMessage(input){
     // initialize the emailJS config
-    emailjs.init("user_wVPfCECEJE2rlJCtYr11g");
+    emailjs.init("user_VvtD0bA26JuKhX9XhhPwH");
     
-    var service_id = 'adekunleoseni47';
-    var template_id = 'template_kpcl8mff';
+    var service_id = 'shupscom';
+    var template_id = 'template_okVItNF3';
     var body = {
                 subject: input[1],
                 name: input[3],
